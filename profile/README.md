@@ -56,10 +56,22 @@ Please use the appropriate address below – this helps us handle your request e
 | `support@dnsguardian.ch` | General questions or issues with usage |
 | `info@dnsguardian.ch` | General inquiries, collaboration, or anything else |
 | `admin@dnsguardian.ch` | Direct contact with the administration |
+| `postmaster@dnsguardian.ch` | Technical mail issues (e.g. delivery failures) |
+| `hostmaster@dnsguardian.ch` | DNS-related matters |
+
+> `support@` and `info@` are aliases and route directly to `admin@`.
+
+### Encrypted Communication
+
+For encrypted communication, please use `admin@dnsguardian.ch` exclusively –
+only this address has a PGP key.
+
+The public key is available on [keys.openpgp.org](https://keys.openpgp.org/search?q=admin%40dnsguardian.ch).
 
 ### Reporting Security Issues
 
 Please report security issues **confidentially** to `security@dnsguardian.ch`.
 Do not disclose vulnerabilities publicly before they have been resolved.
+For more details see [SECURITY.md](./SECURITY.md) *(if available)*
 
 > Response times may vary – this is a hobby project.
