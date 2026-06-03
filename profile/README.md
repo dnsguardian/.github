@@ -18,7 +18,7 @@ friends and trusted people in the community.
 
 ## Projects
 
-All projects are licensed under **[GPLv3]([https://www.gnu.org/licenses/gpl-3.0.html](https://github.com/dnsguardian/.github/blob/main/LICENSE))**.
+All projects are licensed under **[GPLv3]([https://www.gnu.org/licenses/gpl-3.0.html](https://github.com/dnsguardian/.github/blob/main/LICENSE)**.
 
 - **[safe-harbour](https://github.com/DNSGuardian/safe-harbour)** → Web portal to request unblocking of domains (Safe Harbour)
 - **[resolver-docs](https://github.com/DNSGuardian/resolver-docs)** → Public documentation of our resolver infrastructure
