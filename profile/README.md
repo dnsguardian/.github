@@ -56,10 +56,6 @@ Please use the appropriate address below – this helps us handle your request e
 | `support@dnsguardian.ch` | General questions or issues with usage |
 | `info@dnsguardian.ch` | General inquiries, collaboration, or anything else |
 | `admin@dnsguardian.ch` | Direct contact with the administration |
-| `postmaster@dnsguardian.ch` | Technical mail issues (e.g. delivery failures) |
-| `hostmaster@dnsguardian.ch` | DNS-related matters |
-
-> `support@` and `info@` are aliases and route directly to `admin@`.
 
 ### Encrypted Communication
 
