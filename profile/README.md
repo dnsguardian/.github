@@ -1,7 +1,6 @@
 # DNSGuardian
 
-DNSGuardian is a community-driven DNS project initiated by
-[Rayla Norell](https://github.com/raylanorell) – built for family,
+DNSGuardian is a community-driven DNS project – built for family,
 friends and trusted people in the community.
 
 
