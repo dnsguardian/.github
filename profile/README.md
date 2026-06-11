@@ -1,9 +1,7 @@
 # DNSGuardian
 
-DNSGuardian is a community-driven DNS project – built for family,
-friends and trusted people in the community.
+DNSGuardian is a community-driven DNS project – built for family, friends and trusted people in the community.
 
----
 
 ## What We Do
 
@@ -13,7 +11,6 @@ friends and trusted people in the community.
   blocking Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing,
   Malware, Scam, Fake, Cryptojacking, other crap and more.
 
----
 
 ## Projects
 
@@ -23,7 +20,7 @@ All projects are licensed under **GPLv3**.
 - **[resolver-docs](https://gitlab.com/DNSGuardian/resolver-docs)** → Public documentation of our resolver infrastructure
 - **[whitelist](https://gitlab.com/DNSGuardian/whitelist)** → Publicly usable whitelist – free to use in your own setup
 
----
+> You can find the official project repositories at [https://gitlab.com/dnsguardian](https://gitlab.com/dnsguardian).
 
 ## Safe Harbour
 
@@ -32,7 +29,6 @@ Blocked a legitimate domain? Submit an unblock request through our
 
 → [dnsguardian.ch](https://dnsguardian.ch)
 
----
 
 ## Not Public – But Open
 
@@ -42,7 +38,6 @@ the service, you are welcome. Donations keep the project alive.
 All details can be found in the repositories and on our website:
 **[dnsguardian.ch](https://dnsguardian.ch)**
 
----
 
 ## Contact
 
@@ -73,7 +68,6 @@ For more details see [SECURITY.md](./SECURITY.md) *(if available)*
 DNSGuardian is a community-driven DNS project – built for family,
 friends and trusted people in the community.
 
----
 
 ## What We Do
 
@@ -83,7 +77,6 @@ friends and trusted people in the community.
   blocking Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing,
   Malware, Scam, Fake, Cryptojacking, other crap and more.
 
----
 
 ## Projects
 
@@ -93,7 +86,6 @@ All projects are licensed under **GPLv3**.
 - **[resolver-docs](https://gitlab.com/DNSGuardian/resolver-docs)** → Public documentation of our resolver infrastructure
 - **[whitelist](https://gitlab.com/DNSGuardian/whitelist)** → Publicly usable whitelist – free to use in your own setup
 
----
 
 ## Safe Harbour
 
@@ -102,7 +94,6 @@ Blocked a legitimate domain? Submit an unblock request through our
 
 → [dnsguardian.ch](https://dnsguardian.ch)
 
----
 
 ## Not Public – But Open
 
@@ -112,7 +103,6 @@ the service, you are welcome. Donations keep the project alive.
 All details can be found in the repositories and on our website:
 **[dnsguardian.ch](https://dnsguardian.ch)**
 
----
 
 ## Contact
 
